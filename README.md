@@ -21,43 +21,6 @@ As the organizer of [dotnet.amsterdam](https://www.meetup.com/dotnet-amsterdam/)
 
 My focus is on building **reliable, maintainable software** using programming patterns in .NET.
 
-## 🛠️ Open Source Projects
-
-### Functional Architecture Libraries for .NET
-
-I maintain a collection of lightweight, AOT-compatible libraries that bring programming patterns to the .NET ecosystem:
-
-<table>
-<tr>
-<td width="50%">
-
-#### [ErikLieben.FA.Results](https://github.com/eriklieben/ErikLieben.FA.Results)
-A lightweight Result type for .NET that emphasizes explicit success/failure handling, making error flows visible and intentional.
-
-</td>
-<td width="50%">
-
-#### [ErikLieben.FA.Specifications](https://github.com/eriklieben/ErikLieben.FA.Specifications)
-Specification pattern library for expressing domain rules as composable, reusable business logic components with full AOT support.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### [ErikLieben.FA.StronglyTypedIds](https://github.com/eriklieben/ErikLieben.FA.StronglyTypedIds)
-Roslyn-based source generator for creating strongly typed IDs with built-in JSON serialization, eliminating primitive obsession.
-
-</td>
-<td width="50%">
-
-#### [ErikLieben.FA.ES](https://github.com/eriklieben/ErikLieben.FA.ES)
-Event sourcing toolkit featuring aggregate support, command handling, and Azure Table Storage integration for scalable event-driven systems.
-
-</td>
-</tr>
-</table>
-
 ## 🎤 Community & Content
 
 Beyond code, I'm passionate about building and nurturing developer communities:
