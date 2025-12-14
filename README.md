@@ -30,13 +30,3 @@ Beyond code, I'm passionate about building and nurturing developer communities:
 - ✍️ **Blog** — Sharing my experiences and learnings on [eriklieben.com](https://www.eriklieben.com) about software development, programming, and building better software
 
 ---
-
-<div align="center">
-
-### 💬 Let's Connect
-
-I'm always happy to discuss .NET, programming, community building, or potential collaborations.
-
-Feel free to reach out through any of the platforms above!
-
-</div>
